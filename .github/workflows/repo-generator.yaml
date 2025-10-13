@@ -36,12 +36,15 @@ on:
         required: False
         default: ''
 
+permissions:
+  contents: write
+
 jobs:
   Repo_Builder:
     name: Repo Template Builder
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2   
+      - uses: actions/checkout@v4
       ### Update links in README file
       - name: Updating links in README content
         if: ${{  github.event.inputs.Replace_Links_In_Markdown == 'true' }}
