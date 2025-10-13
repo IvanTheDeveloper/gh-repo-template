@@ -1,4 +1,4 @@
-name: released
+name: Automatic VirusTotal scan on release
 
 permissions:
   contents: read
