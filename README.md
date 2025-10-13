@@ -2,10 +2,11 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
+[![Pull Requests][pulls-shield]][pulls-url]
 [![License][license-shield]][license-url]
 
 <!-- HEADER AND TITLE -->
@@ -138,14 +139,16 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- 🏷️ SHIELDS -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/IvanTheDeveloper/gh-repo-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/IvanTheDeveloper/gh-repo-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/IvanTheDeveloper/gh-repo-template.svg?style=for-the-badge
-[forks-url]: https://github.com/IvanTheDeveloper/gh-repo-template/network/members
 [stars-shield]: https://img.shields.io/github/stars/IvanTheDeveloper/gh-repo-template.svg?style=for-the-badge
 [stars-url]: https://github.com/IvanTheDeveloper/gh-repo-template/stargazers
+[forks-shield]: https://img.shields.io/github/forks/IvanTheDeveloper/gh-repo-template.svg?style=for-the-badge
+[forks-url]: https://github.com/IvanTheDeveloper/gh-repo-template/network/members
+[contributors-shield]: https://img.shields.io/github/contributors/IvanTheDeveloper/gh-repo-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/IvanTheDeveloper/gh-repo-template/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/IvanTheDeveloper/gh-repo-template.svg?style=for-the-badge
 [issues-url]: https://github.com/IvanTheDeveloper/gh-repo-template/issues
+[pulls-shield]: https://img.shields.io/github/issues-pr/IvanTheDeveloper/gh-repo-template.svg?style=for-the-badge
+[pulls-url]: https://github.com/IvanTheDeveloper/gh-repo-template/pulls
 [license-shield]: https://img.shields.io/github/license/IvanTheDeveloper/gh-repo-template.svg?style=for-the-badge
 [license-url]: https://github.com/IvanTheDeveloper/gh-repo-template/blob/master/LICENSE.txt
 
