@@ -49,7 +49,7 @@
 <details><summary>How to replace all <b>links</b> with your own:</summary>
 <br>	
     
-Edit the [repo_config.json](.github/py_repo_tools/repo_config.json) file & set the value for "REPLACE_TEXT_WITH" - to your username & repo name like the following example
+Edit the [repo_config.json](.github/scripts/repo_config.json) file & set the value for "REPLACE_TEXT_WITH" - to your username & repo name like the following example
 
        MyUserName/My-Repo-Name
 
@@ -63,7 +63,7 @@ And run the Repo Generator in Actions - set "Update all links" to <code>checked<
 <details><summary>How to replace <b>e-mail</b> in <a href="CODE_OF_CONDUCT.md">Code of Conduct</a> with your own:</summary>
 <br>	
     
-Edit the [repo_config.json](.github/py_repo_tools/repo_config.json) file & set the value for "EMAIL" - to your e-mail address like the following example.
+Edit the [repo_config.json](.github/scripts/repo_config.json) file & set the value for "EMAIL" - to your e-mail address like the following example.
 
        hello_world@github.com
 
@@ -77,7 +77,7 @@ And run the Repo Generator in Actions- set "Update Code Of Conduct Info" to <cod
 <details><summary>How to replace <b>e-mail</b> in <a href=".github/SECURITY.md">Security Policy</a> with your own:</summary>
 <br>	
     
-Edit the [repo_config.json](.github/py_repo_tools/repo_config.json) file & set the value for "EMAIL" - to your e-mail address like the following example.
+Edit the [repo_config.json](.github/scripts/repo_config.json) file & set the value for "EMAIL" - to your e-mail address like the following example.
 
        hello_world@github.com
 

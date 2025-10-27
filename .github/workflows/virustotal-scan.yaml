@@ -12,7 +12,6 @@ jobs:
   virustotal:
     runs-on: ubuntu-latest
     permissions:
-      # required to write GitHub Release body
       contents: write
     steps:
       -
